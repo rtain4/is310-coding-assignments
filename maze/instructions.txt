@@ -1,0 +1,1 @@
+Your goal is to find the center of the maze. Solve the clues in order to get through the correct door.
